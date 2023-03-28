@@ -74,3 +74,12 @@ Num | Nome | Nota
 2 | Antonio | 9
 3 | Geórgia | 10
 
+***
+
+Para digitar um codigo e ele aparecer como código é so digitar ''' e fechar a linha com '''
+
+Exemplo:
+
+'''
+Printf("Hello World!");
+'''
