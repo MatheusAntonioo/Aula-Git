@@ -102,4 +102,6 @@ Exemplo : (: + heart + :) = :heart:
 
 Para marcar pessoas é só adicionar @ antes do nome da pessoa
 
-Exemplo: @COIOTEzera
+Exemplo: @MatheusAnthonioo
+
+Guia completo direto do github do Professor Gustavo Guanabara [Aqui](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
