@@ -71,4 +71,6 @@ Exemplo:
 Num | Nome | Nota
 ---|---|---
 1 | Matheus | 8
+2 | Antonio | 9
+3 | Geórgia | 10
 
