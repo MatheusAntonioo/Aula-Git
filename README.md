@@ -97,3 +97,9 @@ Para adicionar em emoji é só digitar : e seguido do nome do emoji
 Exemplo : (: + heart + :) = :heart:
 
 : + hand + : = :hand:
+
+***
+
+Para marcar pessoas é só adicionar @ antes do nome da pessoa
+
+Exemplo: @COIOTEzera
