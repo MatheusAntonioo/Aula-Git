@@ -68,7 +68,7 @@ Para indicar que é uma tabela abaixo do cabeçalho tem que digitar ---|---|--- 
 
 Exemplo:
 
-Num | Nome | Nota | seila | teste
----|---|---|---|---
-1 | Matheus | 8 | seila | teste
+Num | Nome | Nota
+---|---|---
+1 | Matheus | 8
 
