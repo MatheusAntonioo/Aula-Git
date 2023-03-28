@@ -14,7 +14,12 @@ Lista numerada:
    1. dando três espaços vira uma sub lista
    2. fazendo a sub lista em números romanos
 
+Lista demarcada:
 
+* é só digitar 1 * e seguir de espaço
+* que ele vai demarcando a lista
+   * para uma sub lista
+   * basta adicionar 3 espaços também
 
 **Aprendendo a linguagem Markdown**
 
