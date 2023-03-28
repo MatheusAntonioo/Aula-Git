@@ -5,6 +5,8 @@ Repositório criado durante uma aula ao vivo!
 
 Nesta linha eu editei o README.md diretamente pelo site do github
 
+***
+
 * aprendi a usar lista
 
 Lista numerada:
@@ -27,6 +29,8 @@ Lista de tarefas:
 - [ ] tem que adicionar "[ ]" após o espaço do - ou *
 - [ ] para marcar a tarefa como concluida
 - [x] é so adicionar um "x" no lugar do espaço nas chaves
+
+***
 
 **Aprendendo a linguagem Markdown**
 
