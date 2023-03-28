@@ -76,7 +76,7 @@ Num | Nome | Nota
 
 ***
 
-Para digitar um codigo e ele aparecer como código é so digitar ''' e fechar a linha com '''
+Para digitar um codigo e ele aparecer como código é so digitar ``` e fechar a linha com ```
 
 Exemplo:
 
