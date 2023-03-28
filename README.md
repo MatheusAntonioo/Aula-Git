@@ -25,7 +25,8 @@ Lista de tarefas:
 
 - [ ] para uma lista de tarefas
 - [ ] tem que adicionar "[ ]" após o espaço do - ou *
-   - [ ] para uma sublista segue a mesma regra dos 3 espaços
+- [ ] para marcar a tarefa como concluida
+- [x] é so adicionar um "x" no lugar do espaço nas chaves
 
 **Aprendendo a linguagem Markdown**
 
