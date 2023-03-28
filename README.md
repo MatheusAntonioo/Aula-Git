@@ -76,7 +76,7 @@ Num | Nome | Nota
 
 ***
 
-Para digitar um codigo e ele aparecer como código é so digitar ``` e fechar a linha com ```
+Para digitar um codigo e ele aparecer como código é so digitar três crases e fechar a linha com mais três ou para grifar um comando basta uma só no inicio e no fim `assim`
 
 Exemplo:
 
