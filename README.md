@@ -11,7 +11,7 @@ Lista numerada:
 
 1. é so digitar o número seguindo de ponto 
 2. que ele demarca a lista
-   3.dando três espaços vira uma sub lista
+   1.dando três espaços vira uma sub lista
 
 **Aprendendo a linguagem Markdown**
 
