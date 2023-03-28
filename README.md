@@ -12,3 +12,7 @@ Nesta linha eu editei o README.md diretamente pelo site do github
 Para deixar em **negrito** é só adicionar ** ou __
 
 Para deixar *itálico* é só adicionar * ou _
+
+Para deixar ~~riscado~~ é só adicionar ~~
+
+Para criar um # titulo
