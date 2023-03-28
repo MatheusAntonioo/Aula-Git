@@ -9,4 +9,6 @@ Nesta linha eu editei o README.md diretamente pelo site do github
 
 **Aprendendo a linguagem Markdown**
 
-Para deixar em **negrito** é só adicionar ** ou --
+Para deixar em **negrito** é só adicionar ** ou __
+
+Para deixar *itálico* é só adicionar * ou _
