@@ -76,10 +76,17 @@ Num | Nome | Nota
 
 ***
 
-Para digitar um codigo e ele aparecer como código é so digitar três crases e fechar a linha com mais três ou para grifar um comando basta uma só no inicio e no fim `assim`
+Para digitar um codigo e ele aparecer como código é so digitar três crases e fechar a linha com mais três, ou para grifar um comando basta uma só no inicio e no fim `assim`
 
 Exemplo:
 
 ```
-Printf("Hello World!");
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é IMPAR')
 ```
+
+***
+
