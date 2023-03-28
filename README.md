@@ -7,6 +7,12 @@ Nesta linha eu editei o README.md diretamente pelo site do github
 
 * aprendi a usar lista
 
+Lista numerada:
+
+1. é so digitar o número seguindo de ponto 
+2. que ele demarca a lista
+   3.dando três espaços vira uma sub lista
+
 **Aprendendo a linguagem Markdown**
 
 Para deixar em **negrito** é só adicionar ** ou __
@@ -24,5 +30,3 @@ Para criar um título é so acrescentar # no inicio da linha, # para o título p
 Para adicionar uma linha é só digitar --- ou ***
 ---
 ***
-***
----
