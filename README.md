@@ -59,3 +59,16 @@ Para adicionar imagens é so arrastar elas para o campo que tem abaixo escrito "
 Para adicionar um Link é so digitar o titulo entre [ ] e o link entre ( )
 
 Por exemplo meu link do [linkedin](https://www.linkedin.com/in/matheus-ant%C3%B4nio-196b09239/)
+
+***
+
+Para criar uma tabela tem que digitar o cabeçalho separado por |
+
+Para indicar que é uma tabela abaixo do cabeçalho tem que digitar ---|---|--- relativo a quantidade de colunas
+
+Exemplo:
+
+Num | Nome | Nota | seila | teste
+---|---|---
+1 | Matheus | 8 | seila | teste
+
