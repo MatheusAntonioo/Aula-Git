@@ -49,3 +49,7 @@ Para criar um título é so acrescentar # no inicio da linha, # para o título p
 Para adicionar uma linha é só digitar --- ou ***
 ---
 ***
+
+Para adicionar imagens é so arrastar elas para o campo que tem abaixo escrito "Attach files by dragging e dropping, selecting or pasting them."
+
+![collabocats](https://user-images.githubusercontent.com/129125907/228117227-0230b9c9-5513-4b72-81f7-28d35c0d3b9b.jpg)
