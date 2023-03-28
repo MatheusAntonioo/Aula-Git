@@ -9,9 +9,12 @@ Nesta linha eu editei o README.md diretamente pelo site do github
 
 Lista numerada:
 
-1. é so digitar o número seguindo de ponto 
+1. é so digitar o número seguindo de ponto e espaço
 2. que ele demarca a lista
    1. dando três espaços vira uma sub lista
+   2. fazendo a sub lista em números romanos
+
+
 
 **Aprendendo a linguagem Markdown**
 
