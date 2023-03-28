@@ -24,7 +24,7 @@ Lista demarcada:
 Lista de tarefas:
 
 - [] para uma lista de tarefas
-- [] tem que adicionar "[]" após o espaço do - ou *
+- [] tem que adicionar "["]" após o espaço do - ou *
 
 **Aprendendo a linguagem Markdown**
 
