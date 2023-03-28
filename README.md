@@ -53,3 +53,6 @@ Para adicionar uma linha é só digitar --- ou ***
 Para adicionar imagens é so arrastar elas para o campo que tem abaixo escrito "Attach files by dragging e dropping, selecting or pasting them."
 
 ![collabocats](https://user-images.githubusercontent.com/129125907/228117799-7225fe41-f6de-4d79-8cdd-e865441cb7c3.jpg)
+
+Para adicionar um Link é so digitar o titulo entre [ ] e o link entre ( )
+por exemplo meu link do [linkedin](https://www.linkedin.com/in/matheus-ant%C3%B4nio-196b09239/)
