@@ -80,6 +80,6 @@ Para digitar um codigo e ele aparecer como código é so digitar ''' e fechar a 
 
 Exemplo:
 
-'''
+```
 Printf("Hello World!");
-'''
+```
