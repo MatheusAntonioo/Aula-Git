@@ -15,4 +15,8 @@ Para deixar *itálico* é só adicionar * ou _
 
 Para deixar ~~riscado~~ é só adicionar ~~
 
-Para criar um # titulo
+Para criar um título é so acrescentar # no inicio da linha, # para o título principal, ## para p título secundário, ### para os demais títulos.
+
+# Título 1
+## Título 2
+### Título 3
