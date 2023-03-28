@@ -16,10 +16,15 @@ Lista numerada:
 
 Lista demarcada:
 
-* é só digitar 1 * e seguir de espaço
+* é só digitar 1 * ou - e seguir de espaço
 * que ele vai demarcando a lista
    * para uma sub lista
    * basta adicionar 3 espaços também
+
+Lista de tarefas:
+
+- [] para uma lista de tarefas
+- [] tem que adicionar "[]" após o espaço do - ou *
 
 **Aprendendo a linguagem Markdown**
 
