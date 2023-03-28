@@ -5,6 +5,6 @@ Repositório criado durante uma aula ao vivo!
 
 Nesta linha eu editei o README.md diretamente pelo site do github
 
-*aprendi a usar lista
+* aprendi a usar lista
 
 **Aprendendo a linguagem Markdown**
