@@ -90,3 +90,8 @@ else:
 
 ***
 
+# Emoji
+
+Para adicionar em emoji é só digitar : e seguido do nome do emoji 
+
+Exemplo : (: + heart) = ♥️
