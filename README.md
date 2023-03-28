@@ -20,3 +20,6 @@ Para criar um título é so acrescentar # no inicio da linha, # para o título p
 # Título 1
 ## Título 2
 ### Título 3
+
+Para adicionar uma linha é só digitar --- ou ***
+---
